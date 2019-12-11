@@ -1,5 +1,5 @@
-# 5800_final
-## Johnson Wei
+# CS 5800_final
+## Submitted by Johnson Wei
 
 This contains source code for parts 2 and 4 of the final exam.  
 *(part 1 did not apply to me)*.  
